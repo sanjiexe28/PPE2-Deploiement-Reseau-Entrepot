@@ -1,96 +1,59 @@
 # PPE 2 — Déploiement du réseau dans un entrepôt
 
-## 📋 Présentation
+## Présentation
 
-Dans le cadre de mon BTS SIO option SISR, j'ai participé au
-déploiement du réseau informatique dans un hangar de stockage.
+Dans le cadre de mon BTS SIO option SISR, j’ai participé au déploiement du réseau informatique dans un hangar de stockage.
 
-L'objectif était de permettre aux équipements utilisés dans
-l'entrepôt de disposer d'une couverture Wi-Fi suffisante.
+L’objectif était de mettre en place le réseau et d’assurer une bonne couverture Wi-Fi dans l’entrepôt afin de permettre l’utilisation des douchettes.
 
----
+## Matériel
 
-## 🎯 Objectifs
+* Switch
+* Pare-feu Fortinet
+* 3 bornes Wi-Fi
+* Accès 4G
+* Câbles RJ45
+* 2 douchettes
 
-- Déployer le réseau informatique dans l'entrepôt
-- Installer les équipements réseau
-- Mettre en place les bornes Wi-Fi
-- Réaliser le câblage RJ45
-- Tester la couverture Wi-Fi
-- Identifier les éventuelles zones mortes
+## Déroulement
 
----
+### 20-21/08/2026
 
-## 🛠️ Matériel
+Mise en place du switch, du pare-feu Fortinet, des trois bornes Wi-Fi et de l’accès 4G.
 
-- Switch
-- Pare-feu Fortinet
-- 3 bornes Wi-Fi
-- Accès 4G
-- Câbles RJ45
-- 2 douchettes professionnelles
+Des premiers tests ont été réalisés sur les bornes, mais ils n’étaient pas concluants. Il fallait voir avec Yvan pour comprendre le problème et avoir plus d’explications.
 
----
+### 24/08/2026
 
-# 📅 Déroulement
+Échange avec le technicien SDEL pour déterminer où placer les bornes afin de couvrir correctement l’ensemble de l’entrepôt.
 
-## 20-21/08/2026 — Première intervention
+Les bornes ont ensuite été installées, avec notamment une borne à l’entrée et une à la sortie.
 
-- Mise en place du switch
-- Mise en place du pare-feu Fortinet
-- Installation des 3 bornes Wi-Fi
-- Mise en place de l'accès 4G
-- Premiers tests
+J’ai également participé à la modification des prises électriques et au câblage des bornes jusqu’au switch en RJ45.
 
-⚠️ Les premiers tests n'ont pas été concluants.
-Des explications complémentaires doivent être vues avec Yvan.
+Des tests ont ensuite été réalisés avec les deux douchettes pour vérifier la couverture Wi-Fi.
 
-[PHOTO]
+### 27/08/2026
 
----
+Réalisation d’une heatmap Wi-Fi afin de vérifier la couverture dans l’entrepôt et de repérer les éventuelles zones mortes.
 
-## 24/08/2026 — Câblage et positionnement
+## Tests
 
-Échange avec le technicien SDEL afin de déterminer le positionnement
-des bornes pour couvrir l'ensemble de l'entrepôt.
+Les tests avec les douchettes permettent de vérifier que le réseau Wi-Fi est utilisable dans les différentes zones de l’entrepôt.
 
-- Positionnement des bornes
-- Modification des prises électriques
-- Câblage RJ45 jusqu'au switch
-- Tests avec les deux douchettes
+La heatmap permet ensuite d’avoir une meilleure vision de la couverture et de repérer les endroits où le signal est moins bon.
 
-[PHOTO]
+## Résultat
 
----
+Le réseau a été déployé dans le hangar avec les différents équipements nécessaires.
 
-## 27/08/2026 — Heatmap Wi-Fi
+Les tests et la heatmap permettent de vérifier la couverture Wi-Fi et d’identifier les éventuelles zones à améliorer.
 
-Réalisation d'une heatmap Wi-Fi afin d'analyser la couverture
-du réseau dans l'entrepôt.
+## Compétences
 
-### Objectifs
-
-- Identifier les zones mortes
-- Vérifier la couverture Wi-Fi
-- Vérifier le positionnement des bornes
-
-[HEATMAP]
-
----
-
-## ✅ Résultat
-
-Les différents tests permettent de vérifier la couverture Wi-Fi
-de l'entrepôt et d'identifier les zones nécessitant éventuellement
-une amélioration.
-
----
-
-## 🎓 Compétences mobilisées
-
-- Installer et tester une solution d'infrastructure réseau
-- Participer au déploiement d'une infrastructure réseau
-- Identifier et raccorder des équipements réseau
-- Tester une couverture Wi-Fi
-- Diagnostiquer un problème lors d'une phase de test
-- Participer à la maintenance d'une infrastructure réseau
+* Participer au déploiement d’une infrastructure réseau
+* Installer et raccorder des équipements réseau
+* Réaliser du câblage RJ45
+* Tester une couverture Wi-Fi
+* Identifier un problème lors de tests
+* Participer à la maintenance d’une infrastructure réseau
